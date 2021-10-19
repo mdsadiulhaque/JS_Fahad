@@ -30,3 +30,10 @@ let goodincome4 = true;
 let eligiableForLone2 = highincome || goodincome;
 
 console.log(eligiableForLone2);
+
+// Not(!)
+
+let applicationrefuze = ! eligiableForLone2;
+
+console.log('applicationrefuze ::',applicationrefuze);
+
