@@ -1,4 +1,4 @@
-   
+   //boll hoise buji nai
 // Math.floor (1.3)
 // checkSpeed(50);
 checkSpeed(80);
