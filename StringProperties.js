@@ -14,5 +14,4 @@ function showProperties(obj){
     for ( let key in obj)
     if (tyoeof obj[key]==="string")
     console.log(key,obj[key]);
-
 }
